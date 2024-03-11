@@ -1,0 +1,59 @@
+body {
+	background-color: black;
+	background-image: url("https://i.pinimg.com/originals/ec/5d/92/ec5d920fa97d92d69611e4959c488a88.jpg");
+	background-attachment: fixed;
+	background-size: 1450px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav {
+	font-family: titillium web;
+}
+
+strong {
+	color: #f10081;
+}
+
+hr {
+	height: 4px;
+	background-color: #f10081;
+}
+
+table {
+	text-align: center;
+}
+
+footer {
+	font-family: titillium web;
+	color: #f10081;;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.container {
+	font-family: titillium web;
+	color: white;
+}
+
+.about {
+	padding-right: 50px;
+}
+
+.tv-girl {
+	background-color: #09001c;
+	padding-bottom: 20px;
+	border-radius: 10px;
+}
+
+.showcase {
+	text-align: center;
+}
+
+.sources {
+	color: white;
+	background-color: #09001c;
+	padding: 20px;
+	border-radius: 10px;
+}
